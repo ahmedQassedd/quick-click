@@ -3,15 +3,11 @@
 
 <p align="left" width="100%">
     <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%206.59.59%20PM.png?alt=media&token=538ffb0c-8cd9-495f-b00f-5d75677442c4">
-    
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769707-c64e0bbd-0012-49aa-a80e-c961529e5af9.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769708-d8b28f06-19ad-40cc-9247-941a0bf56895.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769720-6dc53c59-da2f-4416-a26b-c29990ace14f.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769721-12a755b4-6715-4b11-8230-f45495a6770c.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769742-3db6afdc-2e6a-45d1-b5bc-204de77e57d2.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769898-eb6a1e93-379d-4c0a-ac38-0803f75bbff6.jpg">
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769761-cd3fc78e-50c3-47f7-ba44-c230e6df731f.jpg">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.01.01%20PM.png?alt=media&token=e6a99ddb-edee-4b60-9e96-7101385c80c5">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.01.26%20PM.png?alt=media&token=7c773840-e428-4a35-bca4-5948e7d4384d">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.02.40%20PM.png?alt=media&token=2994454a-3a24-4fce-b74a-72c2f77ba186">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.03.04%20PM.png?alt=media&token=254f7321-5718-459a-a6b0-b6c624e7218a">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%207.04.14%20PM.png?alt=media&token=30302538-3310-4650-b8bb-7871de940bbe">
+    <img width="15%" src= "">
+    <img width="15%" src= "">
 </p>
-
-
-![Screenshot 2024-02-05 at 6 59 59 PM](https://github.com/ahmedQassedd/quick-click/assets/98444809/078aa480-8b81-473d-8319-c93f88eb77ec)
