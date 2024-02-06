@@ -3,7 +3,7 @@
 
 <p align="left" width="100%">
     ![Screenshot 2024-02-05 at 6 59 59 PM](https://github.com/ahmedQassedd/quick-click/assets/98444809/078aa480-8b81-473d-8319-c93f88eb77ec)
-    <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769674-09d542a0-2ed4-4194-af04-5d2968859077.jpg">
+    <img width="15%" src= "https://ibb.co/4gscmDY">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769682-f0c75ea7-3448-4ab2-9523-42a2d1775fe9.jpg">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769707-c64e0bbd-0012-49aa-a80e-c961529e5af9.jpg">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769708-d8b28f06-19ad-40cc-9247-941a0bf56895.jpg">
