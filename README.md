@@ -1,6 +1,6 @@
 # Quick Click
 
-### quick click it's an e-commerce App
+### quick click an e-commerce App
 
 
 <p align="left" width="100%">
@@ -16,7 +16,7 @@
 
 
 
-# Video:
+# Video For the App:
 
 ### https://drive.google.com/file/d/1x1hjR-SuNCVWX-avfMTfdlxlv9wJTCnP/view?usp=sharing
 
