@@ -1,6 +1,6 @@
 # Quick Click
 
-### quick click an e-commerce App
+### quick click it's an e-commerce App
 
 
 <p align="left" width="100%">
