@@ -2,7 +2,7 @@
 
 
 <p align="left" width="100%">
-    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%206.59.59%20PM.png">
+    <img width="15%" src= "https://firebasestorage.googleapis.com/v0/b/ebuy-1494c.appspot.com/o/Screenshot%202024-02-05%20at%206.59.59%20PM.png?alt=media&token=538ffb0c-8cd9-495f-b00f-5d75677442c4">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769707-c64e0bbd-0012-49aa-a80e-c961529e5af9.jpg">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769708-d8b28f06-19ad-40cc-9247-941a0bf56895.jpg">
     <img width="15%" src= "https://user-images.githubusercontent.com/98444809/155769720-6dc53c59-da2f-4416-a26b-c29990ace14f.jpg">
